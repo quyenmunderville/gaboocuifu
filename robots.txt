@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://woameicin.gabehoban.com/sitemap.xml
